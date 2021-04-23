@@ -1,0 +1,92 @@
+[
+    {
+    "ID":"1",
+     "Name": "Limpiador multisuperficies",
+     "Use": "Todas las superficies ",
+     "Description": "Potente limpiador desodorizante; compatible con casi todas las superficies lavables incluyendo madera, losa, boquilla vidrio, cristal, porcelana, plástico, piedra neutral, acero inoxidable, muros, mostradores, hornos y áreas de manejo de alimentos y más. Su acción penetra rápidamente en la suciedad y en la materia orgánica acumulada dejando las superficies brillantes eliminando además la causa de malos olores.",
+     "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+     "Characteristics": "Elimina la suciedad acumulada de grasa y otros materiales residuales. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+    "Image": "PH1.png"
+    },
+    {
+        "ID":"2",
+         "Name": "Limpiador de vidrios",
+         "Use": "Vidrios y ventanas ",
+         "Description": "Es un producto de última generación que elimina rápidamente la grasa; las incrustaciones ocasionadas por el medio ambiente y aquellas derivadas de la combustión; derivados del petróleo; del rocío del mar, huellas dactilares, lluvia y otras. La aplicación del producto deja una capa protectora y la superficies notablemente más brillantes y reflectantes.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Permite ahorros sustanciales por concepto de agua y tiempo de limpieza al no requerir enjuague. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH2.png"
+    },
+    {
+        "ID":"3",
+         "Name": "Limpiador de alfombras y tapiceria",
+         "Use": "Limpieza completa de alfombras ",
+         "Description": "Es una fórmula que incluye en un solo producto la solución para la limpieza, protección y eliminación de manchas en alfombras y tapetes en zonas de alto tráfico. Aplicación eficaz en cines y teatros, hospitales, hotelería, restaurantes, oficinas, centros comerciales, salas de espera, tapicería automotriz, transporte público y otros.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Elimina manchas y olores difíciles derivados de acumulación de suciedad y otras sustancias. Renueva y da brillo a tapices, alfombras y otros textiles. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene fragancia. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH3.png"
+    },
+    {
+        "ID":"4",
+         "Name": "Neutralizador de olores",
+         "Use": "Contra el mal olor",
+         "Description": "Neutraliza y elimina olores causados por descomposición de materia orgánica; derivados de procesos industriales; de recolección y acumulación de basura y grasa; de combustión; de orina de mascotas, equipo deportivo y muchos otros. Eficaz en plantas recicladoras de basura; de aguas residuales, procesadoras de frutas, vegetales y cárnicos, WC rentals, baños e inodoros, cocinas industriales, hospitales, restaurantes, hoteles, transporte público, almacenes, veterinarias, establos, cremerías y procesadores de lácteos, plantas de embutidos y más.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Actúa atomizando el medio ambiente y mediante aplicación directa sobre cualquier superficie como maderas, textiles, calzados, alfombras y otros materiales. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH4.png"
+    },
+    {
+        "ID":"5",
+         "Name": "Desengrasante Extremo",
+         "Use": "Para remover grasa extrema ",
+         "Description": "Es una fórmula no tóxica con poder desinfectante compatible y seguro en superficies de contacto con alimentos, que emulsiona y elimina los excesos de grasas, aceites y acumulación de materia orgánica. Eficiente en talleres mecánicos, áreas de procesos industriales, bandas transportadoras, mesas de trabajo, equipos, cocinas industriales, lavado de piezas de fierro, acero inoxidable, aluminio, plásticos entre otros. Eficaz en áreas abiertas, estacionamientos, gasolineras y remediación de pasivos ambientales en suelos, agua y otras superficies.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Actúa sobre cualquier superficie como madera, textiles, piel, alfombras y otros materiales. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene fragancia. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH5.png"
+    },
+    {
+        "ID":"6",
+         "Name": "Limpiador de frutas y vegetables",
+         "Use": "Lava y sirve",
+         "Description": "Es un limpiador no tóxico, de origen natural con alto poder desinfectante que elimina la suciedad, incrustaciones y residuos acumulados en alimentos. Para uso en restaurantes, comedores industriales, cocinas, lavadoras y empacadoras de frutas y verduras así como de líneas de producción industrial, entre otras.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Eficaz en grasas, aceites, azúcares, proteínas, lípidos derivados de petróleo, pesticidas, fungicidas, insecticidas y fertilizante foliar. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene fragancia. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH6.png"
+    },
+    {
+        "ID":"7",
+         "Name": "Limpiador Para pisos con PH neutro",
+         "Use": "Limpia sin problemas",
+         "Description": "Es un producto diseñado para eliminar eficazmente suciedad, residuos y grasas acumuladas en superficies diversas. Compatible con maderas y otros materiales delicados. No requiere enjuague ni uso de pulidora para dejar brillo sin rayas en acabados.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Genera ahorros importantes por concepto de agua y tiempo en el proceso de lavado. PH neutro. No contiene fragancia. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegraable. No es tóxico, ni ácido. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH7.png"
+    },
+    {
+        "ID":"8",
+         "Name": "Detergente de lavanderia",
+         "Use": "Detergente hipoalergenico",
+         "Description": "Nueva fórmula diseñada para proteger y aumentar la vida útil de los textiles y reemplazar a otros productos químicos cáusticos convencionales.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "El uso de este producto genera ahorros hasta un 52% por concepto de agua, energía, tiempo y sustitución de otros productos complementarios como suavizantes, neutralizadores y otros, sin embargo es compatible con éstos si desea usarlos simultáneamente. Seguro con todas las telas lavables. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene fragancia. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH8.png"
+    },
+    {
+        "ID":"9",
+         "Name": "Mascotas",
+         "Use": "Elimina los malos olores",
+         "Description": "Puede ser aplicado directo a las mascotas y áreas de constante uso para eliminar malos olores de orina y heces, además de eliminar manchas en cualquier superficie.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Actúa atomizando el medio ambiente y mediante aplicación directa sobre cualquier superficie como maderas, textiles, calzados, alfombras y otros materiales. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH9.png"
+    },
+    {
+        "ID":"10",
+         "Name": "Removedor de manchas",
+         "Use": "Hasta las mas dificiles",
+         "Description": "Es un revolucionario removedor de manchas natural, seguro tanto en telas blancas como de color, el uso repetido puede eliminar incluso las manchas que se consideraban permanentes.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Seguro en todas las telas lavables. No contiene fragancia. <br/> Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH10.png"
+    }
+]

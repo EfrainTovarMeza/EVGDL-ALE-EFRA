@@ -1,0 +1,29 @@
+[
+    {
+    "ID":"22",
+     "Name": "Limpiador industrial multiusos",
+     "Use": "Limpiador industrial 203 CIP",
+     "Description": "Es un producto diseñado para diversas aplicaciones en la industria: eficaz en trampas y tanques de grasa; drenajes, calderas, filtros de agua, instalaciones de ventilación, muros, techos, superficies de acero inoxidable, líneas de envasado CIP, frigoríficos, transporte, equipos de proceso, bandas transportadoras, almacenes y áreas de maniobras, etc.",
+     "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+     "Characteristics": "Eficaz en grasas, aceites, azúcares, proteínas, lípidos, derivados de petróleo y otros. Ayuda a eliminar suciedad ligera y pesada en todo tipo de superficies; metales, plásticos, puntura, textiles y muchos más. Es amigable con el medio ambiente, con las personas, animales, materiales y equipos, ya que es un producto natural, hipoalergénico y biodegradable. No es tóxico, ni ácido. No contiene fragancia. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+    "Image": "PH22.png"
+    },
+    {
+        "ID":"23",
+         "Name": "Limpiador industrial 205 para tareas pesadas",
+         "Use": "Vidrios y ventanas ",
+         "Description": "Es la fórmula más fuerte de limpieza industrial en la línea de productos industriales. Esta fórmula de trabajo pesado es potente y eficaz, sin embargo, se diluye para fácil uso, no tóxico. Es un limpiador extremadamente robusto capaz de eliminar suciedades tanto ligeras como pesadas así como los residuos de todas las superficies. Evolve encapsula la suciedad y evita que se re-deposite en superficies ya limpias. Supera de manera significativa a cualquier limpiador químico.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Eficaz en grasas, aceites, azúcares, proteínas, lípidos, derivados de petróleo y otros. Compatible con la mayoría de superficies incluyendo metal, pintura y telas. Use con lavadoras de agua a presión, espumadores, máquinas de vapor y tanques de inmersión. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH23.png"
+    },
+    {
+        "ID":"24",
+         "Name": "Desincrustamnte eliminador de óxido, sarro y otras incrustaciones.",
+         "Use": "Removedor de sarro e incrustaciones",
+         "Description": "Es un producto de aplicaciones múltiples: Eficaz en torres de enfriamiento, tuberías y líneas de conducción, líneas de envasado y en máquinas procesadoras de café. Equipos de evaporación, calderas, sistemas de ventilación, filtros, tanques de almacenamiento, residuos de agua, brisa marina, bandas transportadoras y en superficies con acumulación de sarro u otras incrustaciones. Eficiente en piscinas, filtros, fuentes, baños, lavavajillas, calentadores de agua, inodoros, lavabos, accesorios, pisos, ventanas y drenajes.",
+         "Ingredients": "Agua, tensoactivos no iónicos, carbonato de sodio, ésteres metílicos de ácidos grasos.",
+         "Characteristics": "Es natural y biodegradable. No tóxico. No contiene fragancia. No contiene intencionalmente, ningún tipo de agregados como COV ni productos derivados del petróleo ni cancerígenos.",
+        "Image": "PH24.png"
+    }
+]

@@ -1,0 +1,92 @@
+div.Fondoslocos {
+    width: 100%;
+    height: 700px;
+    background: red;
+    animation: fondo 25s infinite alternate;
+}
+
+#contenedor img {
+    padding-left: 0px;
+    width: 100%;
+}
+
+#contenedor {
+    padding-left: 0px;
+    padding-top: 120px;
+    width: 1217px;
+    height: 530px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+    #contenedor ul {
+        list-style: none;
+        width: 3651px;
+        display: flex;
+        animation: slide 25s infinite alternate;
+    }
+
+@keyframes slide {
+    0% {
+        margin-left: 0px;
+    }
+
+    20% {
+        margin-left: 0px;
+    }
+
+    33% {
+        margin-left: -1217px;
+    }
+
+    45% {
+        margin-left: -1217px;
+    }
+
+    66% {
+        margin-left: -2434px;
+    }
+
+    100% {
+        margin-left: -2434px;
+    }
+
+}
+
+@keyframes fondo {
+    0% {
+        background: #19E69A;
+        
+        background-size: cover;
+    }
+
+    20% {
+        background: #128AA4;
+        
+        background-size: cover;
+    }
+
+    33% {
+        background: #2A5B66;
+   
+        background-size: cover;
+    }
+
+    45% {
+        background: #2A5B66;
+        
+        background-size: cover;
+    }
+
+    66% {
+        background: #417480;
+      
+        background-size: cover;
+    }
+
+    100% {
+        background: #19C0E6;
+   
+        background-size: cover;
+    }
+}

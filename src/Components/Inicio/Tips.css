@@ -1,0 +1,30 @@
+.Tips{
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    width: 95%;
+    border-radius: 10px;
+    height: 300px;
+
+}
+.tipsimage img{
+    
+    width: 100%;
+}
+.tipstitle{
+    width: 100%;
+    margin:auto;
+    display: inline-block;
+ text-align: center;
+}
+.tipstitle p{
+    margin-bottom: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+.tipstitle hr{
+    color: #168e4e;
+    margin-bottom: 2px;
+    padding: 0px;
+}

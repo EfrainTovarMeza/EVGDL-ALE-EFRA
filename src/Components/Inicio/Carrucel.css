@@ -1,0 +1,38 @@
+.tituloc{
+    margin-top: 10px;
+    padding-left: 80px;
+    font-size: 20px;
+    height: 30px;
+}
+.tituloc p{
+    margin: 0px;
+}
+.content-carrucel{
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    margin: auto;
+}
+.carrucel{
+    margin-left: 1%;
+    width: 19%;
+    background-color: white;
+}
+.imagen img{
+    width: 100%;
+}
+.nombre{
+    display:none;
+    height: 40px;
+    background-color: white;
+    justify-content: center;
+    justify-self: center;
+}
+.nombre p{
+    margin: auto;
+}
+.carrucel:hover .nombre{
+    width: 11.5%;
+ display: flex;
+ position: absolute;
+}

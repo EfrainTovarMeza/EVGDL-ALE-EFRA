@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+.Contenedor{
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+    width: 80%;
+}
+
+.Card{
+    display:inline-block;
+    width: 23%;
+    margin-left: 2%;
+    border-radius: 20px 20px 20px 20px;
+    background-color: white;
+    margin-bottom: 30px;
+    cursor: pointer;
+    box-shadow: #818181 2px 7px 7px 2px;
+}
+.img{
+    justify-content: center;
+}
+.img img{
+    width: 100%;
+    justify-self:center;
+    justify-content: center;
+}
+.titulo{
+    justify-content: center;
+    text-align: center;
+    height: 30px;
+    font-size: 25px;
+    color:rgb(22, 142, 78);
+    border-radius: 20px 20px 20px 20px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: 'Bangers', cursive;
+}
+.texto{
+    background-color: white;
+    padding: 0px 8% 5% 8%;
+    text-align: justify;
+}
+.texto p{
+    overflow: hidden;
+    max-height:200px ;
+    text-overflow: ellipsis;
+}
+.descripcion{
+    display: none;
+    transition: 4s;
+    transition-delay: 10s;
+}
+ .Card:hover .img{
+     display: none;
+     transition: .10s;
+ }
+ .Card:hover .descripcion{
+    transition: .10s;
+    display:block;
+    
+    float: left;
+}
+
+.vermas{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    padding: 0px;
+    margin-right: 40px;
+    margin: auto;
+    list-style: none;
+    background-color: rgba(22, 142, 78, 1);
+    width: 50%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+.vermas:hover{
+    background-color: rgba(44, 235, 130, 0.9);
+}
+.vermas li a{
+    text-decoration: none;
+    color: white;
+}
+@media Screen and (max-width:1000px){
+    .Card{
+        width: 48%;
+    }
+}
+@media Screen and (max-width:858px){
+    .Card{
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 20px;
+        width: 80%;
+    } 
+}
+
+.slide{
+    width: 100%;
+    padding-top: 10%;
+    height: 200px;
+    background-image: url(./background.jpg ); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Bangers', cursive;
+}
+
+.slide .titlesidle{
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+   color: white;
+   font-size: 50px;
+}
+.slide .textslide{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+.slide .textslide p{
+    margin: 0px;
+    padding: 0px;
+}
+.slide .textslide p{
+    margin: 0px;
+    padding: 0px;
+}
+.baner{
+    display: flex;
+    width: 80%;
+    padding-top: 40px;
+    margin: auto;
+    font-size: 30px;
+    font-family: 'Bangers', cursive;
+}
